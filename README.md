@@ -3,7 +3,79 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>Truck-Corp</title>
 	<link rel="stylesheet" href="stylecssdawid.css" type="text/css" />
-	<link rel="shortcut icon" href="tir2.jpg" type="image/x-icon" />
+	<link rel="shortcut icon" href="tir2.jpg" type="image/x-icon" 
+	<style>
+	header
+{
+	height: 30%;
+	width: 100%;
+	background-image:url("logo.jpg");
+	background-size:50px 50px;
+}
+
+aside
+{
+	float: left;
+	height: 60%;
+	width: 25%;
+	background-color: #ffff99;
+}
+
+content
+{
+	float: left;
+	height: 60%;
+	width: 75%;
+}
+
+footer
+{
+	clear: both;
+	height: 10%;
+	width: 100%;
+	background-color: gray;
+
+}
+
+h1
+{
+	font-family: Impact;
+	color: #003300;
+	font-size: 48pt;
+	padding-right:5%;
+	float: right;
+}
+#sokrati
+{
+	float: left;
+}
+
+#tekst
+{
+	margin: 30px;
+}
+
+#tekstfooter
+{
+	font-size: 14px;
+	padding-top: 20px;
+	color: white;
+	text-align: center;
+}
+.link
+{
+	color: red;
+	text-decoration: none;
+
+}
+
+.link:hover
+{
+	text-decoration: underline;
+}
+
+
+	</style>
 </head>
 <body>
 	<main> 
