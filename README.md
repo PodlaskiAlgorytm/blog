@@ -1,0 +1,2 @@
+# blog
+To moje repozytorium 
